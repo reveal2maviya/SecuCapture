@@ -32,4 +32,4 @@ Before running the application, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/SecuCapture.git
+git clone https://github.com/reveal2maviya/SecuCapture.git
