@@ -4,6 +4,8 @@ import json
 from flask import Flask, request
 from werkzeug.utils import secure_filename
 
+#Note to add HTTS File
+
 app = Flask(__name__)
 
 # Ensure the "captured_videos" directory exists
