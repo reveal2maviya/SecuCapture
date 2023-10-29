@@ -70,3 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Maviya Shaikh  
 
 Project Link: [GitHub Repository](https://github.com/reveal2maviya/SecuCapture)
+Insta: [Follow on Insta](https://www.instagram.com/connect2maviya/)
