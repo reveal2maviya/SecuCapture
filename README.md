@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![An image of @reveal2maviya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reveal2maviya)](https://holopin.io/@reveal2maviya)
 
-[Tryhackme]([https://tryhackme.com/badge/2103657](https://tryhackme-badges.s3.amazonaws.com/reveal2maviya.png))
+(https://tryhackme-badges.s3.amazonaws.com/reveal2maviya.png)
 
 Maviya Shaikh  
 
